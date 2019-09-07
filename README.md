@@ -1,3 +1,3 @@
 # reviewmyoffer
 
-Customer research for NewCo
+Customer research for Brella
